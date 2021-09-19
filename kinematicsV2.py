@@ -1,5 +1,7 @@
 #This will solve kinematic problems given 3 var and solving for 1
 
+#NOT DONE
+
 st_var = []
 
 st_var.append(input("Enter value for vf: "))
